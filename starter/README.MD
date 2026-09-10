@@ -1,8 +1,8 @@
 # Workshop 01 - Personal Webpage
 
 ## Links
-* **Live Demo:** [Katso nettisivua täältä](https://marikahollmen.github.io/Workshop1-Web-develpment-basics/starter/)
-* **GitHub Repository:** [Katso koodia GitHubista](https://github.com/MarikaHollmen/Workshop1-Web-develpment-basics/tree/main/starter)
+* **Live Demo:** [WEB-page](https://marikahollmen.github.io/Workshop1-Web-develpment-basics/starter/)
+* **GitHub Repository:** [Git repo](https://github.com/MarikaHollmen/Workshop1-Web-develpment-basics/tree/main/starter)
 
 
 This project is a simple, responsive personal website built as part of Workshop 01. It covers core web development concepts, including semantic HTML structure, custom CSS styling, dynamic card layouts, and responsive media queries.
